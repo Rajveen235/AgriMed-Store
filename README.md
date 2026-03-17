@@ -5,8 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Rajveen235/AgriMed-Store?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/Rajveen235/AgriMed-Store?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge)
-![Java](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge)
-
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?style=for-the-badge)
 ---
 
 ## 📌 Project Overview
